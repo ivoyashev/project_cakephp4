@@ -1,0 +1,8 @@
+1. Download CakePHP4 and unzip the folder.
+2. Copy the folder to Wamp server folder : C:\www\wamp\(cakefolder)
+3. Open WampServer and go to http://localhost/phpmyadmin 
+4. Login in phpmyadmin (Username: root, Password:)
+5. Create database named "cakephp4"
+6. Import cakephp4.sql file in database
+7. Go to http://localhost/cakephp4 
+8. Username: user1@fmi-plovdiv.bg  Password:user1
